@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🌱 I’m currently learning **Full Stack Development Couse**
+- 🌱 I’m currently learning **Full Stack Development Course**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vivek-patil-648b82231**
 
