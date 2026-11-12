@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development Course**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vivek-patil-648b82231**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
